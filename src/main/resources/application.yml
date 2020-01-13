@@ -1,0 +1,7 @@
+security:
+  oauth2:
+    resource:
+      token-info-uri: http://localhost:8282/oauth/check_token
+    client:
+      client-id: my-mobile-app
+      client-secret: mobileme
